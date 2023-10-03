@@ -17,7 +17,7 @@ Top performing model was still WeightedEnsemble_L3. RMSE on training data improv
 
 Some parameters of the top performing models from previous autogluon run were optimized as shown in the hyperparameter table below. The top performing model was RandomForest_BAG_L1 (with 300 estimators) with a score of 38 counts (RMSE) on training data. The model performance on test data improved slightly from 0.64 to 0.47
 
-## Further work in the feature
+## Further work in the future
 
 The distribution of the target variable (count) is skewed. I would explore some transformation (log, square root, inverse, etc) to bring distribution close to normal/gaussian.
 
