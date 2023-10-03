@@ -21,7 +21,7 @@ The project was completed live on AWS cloud platform using Amazon Sagemaker stud
 
 Instance: ml.t3.medium instance (2 vCPU + 4 GiB)
 
-Kernal: Python 3 (MXNet 1.8 Python 3.7 CPU Optimized)
+Kernel: Python 3 (MXNet 1.8 Python 3.7 CPU Optimized)
 
 Sagemaker Image: Data Science 3.0
 
