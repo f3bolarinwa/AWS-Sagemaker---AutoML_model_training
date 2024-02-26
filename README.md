@@ -1,7 +1,5 @@
 # Project: Predict Bike Sharing Demand
 
-A program requirement for AWS Machine Learning Engineer Nanodegree @ Udacity School of Artificial Intelligence
-
 Dataset available through kaggle competition here: 
 https://www.kaggle.com/c/bike-sharing-demand/overview
 
